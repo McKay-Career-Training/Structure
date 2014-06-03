@@ -11,7 +11,7 @@ Getting Started
 
 Now to get you started, we need to come up with a blank **HTML** template. The first thing we need to add is the dotype declaration.
 
-	<!DOCTYPE **html**>
+	<!DOCTYPE html>
 
 The doctype declaration must be the very first thing that appears in any **HTML** document. Although it isn't an **HTML** element, it is very important that it be included. The doctype declaration's purpose is to tell the browser what version of **HTML** the page is written in.
 
